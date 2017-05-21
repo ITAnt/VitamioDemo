@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Demo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="url">http://pl.youku.com/playlist/m3u8?ts=1419841762&amp;keyframe=0&amp;vid=XODU1NDc4Mzg4&amp;type=flv&amp;ep=ciaVE0GJV8kG5yfYjT8bYyy3d3JcXJZ1gnqE%2F6YxBMZuH%2BzQnT3YwQ%3D%3D&amp;sid=04198417624751240e35c&amp;token=4396&amp;ctype=12&amp;ev=1&amp;oip=3663591661</string>
+
+</resources>
